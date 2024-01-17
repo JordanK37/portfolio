@@ -1,6 +1,6 @@
 body {
-  background-color: #f2f2f2;
-  font-family: "Lato"; /* OPTIONAL: Google Fonts - base font */
+  background-color: #f7f2f2;
+  font-family: "Lato"; 
   font-weight: 300;
   font-size: 16px;
   color: #555;
@@ -11,7 +11,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway"; /* OPTIONAL: Google Fonts - title font */
+  font-family: "Raleway"; 
   font-weight: 300;
   color: #333;
 }
@@ -28,7 +28,7 @@ p {
 
 /* Links */
 a {
-  color: #1CBCAD;
+  color: #09072e;
   word-wrap: break-word;
 
   -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -40,7 +40,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #7b7b7b;
+  color: #dddce2;
   text-decoration: none;
   outline: 0;
 }
@@ -106,7 +106,7 @@ a:after {
 
 /* About Wrap */
 .about {
-  background: #2c3e50;
+  background: #5fa5b1;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
@@ -124,9 +124,10 @@ a:after {
 }
 
 .footer {
-  background: #2f2f2f;
+  background: #5fa5b1;
   padding-top: 50px;
   padding-bottom: 50px;
+  color: white;
 }
 
 .footer p {
@@ -144,7 +145,7 @@ a:after {
 /* social icons: */
 .footer i {
   padding-right: 8px;
-  /*color: #1abc9c;*/
+  color: #1abc9c;
 }
 
 /* Global Values */
@@ -169,7 +170,7 @@ a:after {
 }
 
 .desc more {
-  color: #616669;
+  color: #889094;
 }
 
 
